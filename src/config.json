@@ -4,13 +4,21 @@
     "website":"",
     "twitter":"",
     "discord":"",
-    "rpc":"https://sei-testnet-2-rpc.brocha.in",
+    "rpc":"https://rpc.atlantic-2.seinetwork.io/",
     "network":"atlantic-2", 
-    "collection_address":"sei107znd46zvz4zja0haq42k048r8ya383tprj55ydls809hkz7hxls9ecwj3", 
+    "collection_address":"sei1047y4akahs435adtr7w7lm76qs2qw8ntkw28nawvnlwqvlu5sgrsmum9rp", 
     "nft_name_type": "default",
     "groups":[
         {
-            "name":"whitelist",
+            "name":"OG",
+	    "allowlist":[
+		"sei13wj7d668vwhety3mdfqnc8alp4uryctj3dndvz",
+		"sei1hwwmx28m5gxk0qrvr53vgzjluxpnggd426u2k4",
+		"sei1d8gvc2fswg8fur6rzhad0v344qzjjueshhkdxr"
+	    ]
+        },
+        {
+            "name":"Whitelist",
             "allowlist":[
 		"sei17he9cx20myxksdknq2vx7d9nkwmve6jyvfrwtv",
 		"sei1ymex8vdytd2h58pylhpc74vnuqx7x2slr2l5v7",
@@ -21,16 +29,8 @@
 		"sei1erhchp0k488xl5w2z6t6x53nr6aar5ph5mqmuc"
             ]
         },
-	{
-            "name":"og",
-	    "allowlist":[
-		"sei13wj7d668vwhety3mdfqnc8alp4uryctj3dndvz",
-		"sei1hwwmx28m5gxk0qrvr53vgzjluxpnggd426u2k4",
-		"sei1d8gvc2fswg8fur6rzhad0v344qzjjueshhkdxr"
-	    ]
-        },
         {
-            "name":"public"
+            "name":"Public"
         }
     ]
 }
