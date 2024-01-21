@@ -18,18 +18,6 @@
 	    ]
         },
         {
-            "name":"Whitelist",
-            "allowlist":[
-		"sei17he9cx20myxksdknq2vx7d9nkwmve6jyvfrwtv",
-		"sei1ymex8vdytd2h58pylhpc74vnuqx7x2slr2l5v7",
-		"sei1tx9ds4u6uwf329jyjazrrefhxwwv6gpgt36yw8",
-		"sei1veej0x63r5phwq4fppvndr5rgu3c3a22ka3kt8",
-		"sei1h0mk8gq4rn6httjkcd0rpwns03zeuve3083ewx",
-		"sei1r4k46myn98d7prga4hkwstgd53sssq6zur0253",
-		"sei1erhchp0k488xl5w2z6t6x53nr6aar5ph5mqmuc"
-            ]
-        },
-        {
             "name":"Public"
         }
     ]
