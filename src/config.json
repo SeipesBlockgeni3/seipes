@@ -6,15 +6,23 @@
     "discord":"",
     "rpc":"https://rpc.atlantic-2.seinetwork.io/",
     "network":"atlantic-2", 
-    "collection_address":"sei1047y4akahs435adtr7w7lm76qs2qw8ntkw28nawvnlwqvlu5sgrsmum9rp", 
+    "collection_address":"sei10unxthv3fzmv6eaqdenvuycwp6fqf46mfc4fzx536mqcdsweg80qcl7w4j", 
     "nft_name_type": "default",
     "groups":[
         {
             "name":"OG",
 	    "allowlist":[
-		"sei13wj7d668vwhety3mdfqnc8alp4uryctj3dndvz",
-		"sei1hwwmx28m5gxk0qrvr53vgzjluxpnggd426u2k4",
-		"sei1d8gvc2fswg8fur6rzhad0v344qzjjueshhkdxr"
+		"sei1ymex8vdytd2h58pylhpc74vnuqx7x2slr2l5v7",
+		"sei1tx9ds4u6uwf329jyjazrrefhxwwv6gpgt36yw8"
+	    ]
+        },
+	{
+            "name":"WL",
+	    "allowlist":[
+		"sei1veej0x63r5phwq4fppvndr5rgu3c3a22ka3kt8",
+		"sei1h0mk8gq4rn6httjkcd0rpwns03zeuve3083ewx",
+		"sei1r4k46myn98d7prga4hkwstgd53sssq6zur0253",
+		"sei1erhchp0k488xl5w2z6t6x53nr6aar5ph5mqmuc""
 	    ]
         },
         {
