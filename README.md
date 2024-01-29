@@ -1,21 +1,4 @@
 
-# Lighthouse Mint UI
-
-Lighthouse mint ui is a launch pad for launching NFT collections created by [Lighthouse cli](https://github.com/We-Bump/Lighthouse-cli).
-
-
-  
-## Usage
-To install, you'll need to have [Node.js](https://nodejs.org/) installed on your computer. 
-
-From your command line:
-```bash
-# Clone this repository 
-$ git clone https://github.com/We-Bump/Lighthouse-mint-ui
-
-# Go into the repository
-$ cd Lighthouse-mint-ui
-
 # Install dependencies
 $ npm install
 ```
@@ -76,8 +59,3 @@ UI relies on `src/config.json` file for configuration of launch.
 `name` - group name
 
 `allowlist` - array of allowlistled wallets. (if merkle root is set for minting group in lighthouse config)
-
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
